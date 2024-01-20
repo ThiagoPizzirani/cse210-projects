@@ -27,10 +27,9 @@ public class Fraction
         return _top;
     }
 
-    public int SetTop(int top)
+    public void SetTop(int top)
     {
         _top = top;
-        return _top;
     }
 
     public double GetBottom()
@@ -38,10 +37,9 @@ public class Fraction
         return _bottom;
     }
 
-    public int SetBottom(int bottom)
+    public void SetBottom(int bottom)
     {
         _bottom = bottom;
-        return _bottom;
     }
 
     public void GetFractionString()
