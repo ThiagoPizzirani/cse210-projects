@@ -46,7 +46,7 @@ class Program
                     listing.Run();
                     activities.Add("Listing");
                 }
-                if (choice == 4) // Total Activity
+                if (choice == 4) // Additional Strectch - Number Total Activity
                 {
                     foreach (string activity in activities)
                     {
