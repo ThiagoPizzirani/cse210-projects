@@ -1,0 +1,3 @@
+0
+SimpleGoal|Simple goal test|desc of simple goal|20|False
+EternalGoal|Eternal goal test|desc of eternal|30
